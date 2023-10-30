@@ -1,3 +1,4 @@
+
 from mlproject import logger
 from mlproject.pipeline.stage_01_data_ingestion import dataingestiontrainingPipeline
 from mlproject.pipeline.stage_02_data_validation import dataValidationPipeline
